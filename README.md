@@ -1,0 +1,1 @@
+[![MythXBadge](https://badgen.net/https/api.mythx.io/v1/projects/cf7d36ac-59c8-4cff-a7d0-4b34425b9a4c/badge/data?cache=300&icon=https://raw.githubusercontent.com/ConsenSys/mythx-github-badge/main/logo_white.svg)](https://docs.mythx.io/dashboard/github-badges)
