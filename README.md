@@ -5,20 +5,21 @@
 Utility farming token for the upcoming SHDW platform. 
 Deflationary in nature to make farming more scarce. 
 Volume incentivized, every 10th buyer gets 90% of the buy fees, while 10% goes to the black hole. 
-Seller decentivized, every sell has a 2% txn fee sent to the buy bonus pool, 3% txn fee split among all holders.
+Seller decentivized, every sell has a 5% txn fee that gets distributed to holders and buy bonus pool
 
 Tokenomics:
 - 100,000,000 Max Supply
 - 70,000,000 added to liquidity
 - 10,000,000 added to 0x for blackhole
 - 10,000,000 added to buyBonusPool
-- 10,000,000 locked in timelock contract for farm
+- 10,000,000 locked in 3 month timelock contract for treasury
+- LP tokens locked for 3 months in timelock contract
 - Fair launch
 
 Rules:
 - 4% sell fee (50% to bonus pool, 50% to holders)
 - 1% txn fee (50% to foxswap pool, 50% to holders)
-- 2% buy fee (100% to prize pool awarded to every 10th buyer)
+- 2% buy fee (90% to prize pool awarded to every 10th buyer, 10% to blackhole)
 
 Passed Consensys MythX Code audit (0 vulnerabilities)
 
